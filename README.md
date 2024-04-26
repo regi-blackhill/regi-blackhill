@@ -1,4 +1,4 @@
-Salve, nobres companheiros de aventura! Eu sou <b>Regi Blackhill</b>, um Anão guerreiro que empunha seu machado no mundo selvagem da programação e ciência de dados! 🪓💻
+Salve, nobres companheiros de aventura! Eu sou <b>Reggie Blackhill</b>, um Anão guerreiro que empunha seu machado no mundo selvagem da programação e ciência de dados! 🪓💻
 
 🐍 <b>Domínio do Python:</b> Como um Anão em sua forja, domino as chamas ardentes do Python para moldar ferramentas e armaduras—códigos que resistem às pressões das batalhas de dados mais desafiadoras. Python é meu machado de batalha, forjado na montanha do conhecimento e temperado no lago da prática.
 
